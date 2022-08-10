@@ -1,7 +1,7 @@
 <resources>
 
     <style name="Theme.MovieTrailersTv" parent="@style/Theme.Leanback" >
-        <item name="android:colorPrimary">#e23636</item>
+        <item name="android:colorPrimary">#581845</item>
         <item name="android:windowAllowReturnTransitionOverlap">true</item>
         <item name="android:windowAllowEnterTransitionOverlap">true</item>
     </style>
